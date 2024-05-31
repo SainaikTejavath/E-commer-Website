@@ -1,0 +1,275 @@
+h1 {
+  text-decoration: underline;
+}
+
+.navbar {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-size: cover;
+  color: white;
+}
+
+.hero-area {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714310084/1096849487-H_qdhkg7.webp");
+  width: 100%;
+  background-size: 100% 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: start;
+}
+
+.logoimage {
+  width: 100%;
+  height: 40px;
+  border-radius: 10px;
+}
+.card-container {
+  background-color: rgb(244, 241, 241);
+  height: 100%;
+  width: 230px;
+  margin: 5px;
+  border-radius: 5px;
+  margin: 30px;
+}
+.heading {
+  color: rgb(250, 241, 241);
+}
+
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-size: cover;
+  height: 100%;
+  background-color: rgb(14, 13, 13);
+  background-size: cover;
+  flex-wrap: wrap;
+}
+
+.card-image {
+  height: 170px;
+  width: 165px;
+  margin: 5px;
+}
+
+.nameHeading {
+  padding-left: 10px;
+  font-size: 20px;
+  font-family: "Roboto";
+}
+
+.cardbutton {
+  background-color: rgb(51, 103, 246);
+  color: white;
+  margin-left: 10px;
+  border-radius: 5px;
+  border: none;
+  height: 40px;
+  margin-bottom: 10px;
+}
+.subtitle {
+  font-family: "Brush Script MT", cursive;
+  font-size: 40px;
+  color: rgb(242, 245, 251);
+  text-align: center;
+  animation: leftin 2s ease-in normal none;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.bg-container {
+  background-image: linear-gradient(to right, #659ebc, #2aaba8, #2aaba8);
+  min-height: 100vh;
+  padding-top: 50px;
+}
+
+.heading {
+  color: white;
+  font-family: "Open Sans";
+  width: 90%;
+  max-width: 900px;
+  margin-left: 20px;
+}
+
+.description {
+  color: white;
+  font-family: "Open Sans";
+  width: 90%;
+  max-width: 900px;
+  margin-bottom: 48px;
+  margin-left: 20px;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 90%;
+  max-width: 900px;
+}
+
+.card {
+  width: 230px;
+  height: 100%;
+  background-color: white;
+  padding: 16px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 16px;
+  font-family: "Open Sans";
+  font-size: 16px;
+}
+
+.card-background-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  height: 150px;
+  width: 100%;
+  background-size: cover;
+  border-radius: 16px;
+}
+
+.nike-bg-image-1 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714316793/633ac0463f06c1_pqzvll.jpg");
+  background-size: 100% 100%;
+}
+
+.nike-bg-image-2 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714314630/GREY-N91-1_yds0ww.png");
+  background-size: 100% 100%;
+}
+
+.nike-bg-image-3 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714315586/vega-snow-v-star-evolution-blue-yellow-with-amber-dropdown_wxivzg.png");
+  background-size: 100% 100%;
+}
+.nike-bg-image-4 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714316904/151242052-111503831-1671188293_uxqixr.jpg");
+  background-size: 100% 100%;
+}
+
+.nike-bg-image-5 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714316547/0r6a6078-edit_thxeoy.jpg");
+  background-size: 100% 100%;
+}
+.nike-bg-image-6 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714317575/61V1pB-2JRL._SX679__c1nctc.jpg");
+  background-size: 100% 100%;
+}
+.nike-bg-image-7 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714362711/61V83Bde_SL._AC_UF350_350_QL80__bc8zc1.jpg");
+  background-size: 100% 100%;
+}
+.nike-bg-image-8 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714363635/202009110621522481_izio4z.jpg");
+  background-size: 100% 100%;
+}
+
+.nike-bg-image-9 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714363278/scorpion-1-1694021815029_fpmryj.jpg");
+  background-size: 100% 100%;
+}
+
+.nike-bg-image-10 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714363831/717rEMcHecL._SX679__jhejut.jpg");
+  background-size: 100% 100%;
+}
+
+.nike-bg-image-11 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714364255/71X6W3Awz_L._SX679__vza6gc.jpg");
+  background-size: 100% 100%;
+}
+.nike-bg-image-12 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1714365047/aura-decor-helmet-1000x1000_fl0zuy.jpg");
+  background-size: 100% 100%;
+}
+
+.card-description: {
+  font-size: 16px;
+  color: #594d6d;
+  margin-bottom: 30px;
+}
+
+.price {
+  font-weight: 700;
+}
+
+.card-footer-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
+  color: white;
+  font-size: 22px;
+}
+
+.middleContainer {
+  background-color: #a4f4f2;
+  background-size: cover;
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}
+.articles {
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 10px;
+}
+.footersection-bg-container {
+  background-color: #19232d;
+}
+
+.footer-section-logo {
+  width: 60px;
+  height: 50px;
+}
+
+.footersection-icons {
+  background-color: #202b36;
+  width: 50px;
+  height: 50px;
+  border-radius: 40px;
+  margin: 5px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 14px;
+  padding-left: 14px;
+}
+
+.icons {
+  color: #5a7184;
+  font-size: 30px;
+}
+
+.address {
+  color: #5a7184;
+  font-size: 15px;
+  text-align: center;
+}
+
+.contact-details {
+  color: #5a7184;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.paragraph {
+  color: #5a7184;
+  font-size: 18px;
+}
+
+.hr-line {
+  background-color: white;
+}
+
+.last-para {
+  color: #5a7184;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "roboto";
+}
